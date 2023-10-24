@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mascotas",
+    "slug": "mascotas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mascotas"
+}
